@@ -1,0 +1,5 @@
+addRoom 5
+addPlayer Joska Room#1
+addItem Logarlec Room#1
+setActiveCharacter Joska
+pickup Logarlec#1

@@ -1,0 +1,38 @@
+Game state: ongoing
+Characters of Game: 
+	ID: Lacika
+	Stunned for: 0
+	Drunk for: 0
+	Killed: false
+	Items of entity: No items.
+	Room: Room#2
+Rooms of Game: 
+	ID: Room#1
+	Capacity: 5
+	Toxic: false
+	Wet: false
+	Cursed: false
+	Sticky: false
+	Entities of room: No entities.
+	Items of room: No items.
+	Doors of room: 
+		ID: Door#1
+		First Room: Room#1
+		Second Room: Room#2
+		Closed: false
+		Oneway: false
+	ID: Room#2
+	Capacity: 5
+	Toxic: false
+	Wet: false
+	Cursed: false
+	Sticky: false
+	Entities of room: 
+		ID: Lacika
+	Items of room: No items.
+	Doors of room: 
+		ID: Door#1
+		First Room: Room#1
+		Second Room: Room#2
+		Closed: false
+		Oneway: false

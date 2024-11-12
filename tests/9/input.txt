@@ -1,0 +1,6 @@
+addRoom 5 toxic
+addPlayer Karoly Room#1
+addItem AirConditioner Karoly
+setActiveCharacter Karoly
+getinfo
+activate AirConditioner#1

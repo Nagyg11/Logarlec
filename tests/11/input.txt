@@ -1,0 +1,11 @@
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+addPlayer Karoly Room#1
+addItem Transistor Karoly
+addItem Transistor Karoly
+setActiveCharacter Karoly
+link Transistor#1 Transistor#2
+activate Transistor#1
+move Door#1
+activate Transistor#2

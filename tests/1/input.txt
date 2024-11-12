@@ -1,0 +1,6 @@
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+addPlayer Lacika Room#1
+setActiveCharacter Lacika
+move Door#1

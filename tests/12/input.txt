@@ -1,0 +1,6 @@
+addRoom 5
+addPlayer Karoly Room#1
+addItem Camembert Karoly
+setActiveCharacter Karoly
+getinfo
+activate Camembert#1

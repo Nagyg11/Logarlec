@@ -1,0 +1,28 @@
+Game state: ongoing
+Characters of Game:
+	ID: Karoly
+	Stunned for: 0
+	Drunk for: 3
+	Killed: false
+	Items of entity:
+		ID: Beer#1
+		Health: 0
+		Pair: No pair.
+		ID: Beer#2
+		Health: 0
+		Pair: No pair.
+	Room: Room#1
+Rooms of Game:
+	ID: Room#1
+	Capacity: 5
+	Toxic: false
+	Wet: false
+	Cursed: false
+	Sticky: false
+	Entities of room:
+		ID: Karoly
+	Items of room:
+		ID: FakeFFP2#3
+		Health: 0
+		Pair: No pair.
+	Doors of room: No doors.

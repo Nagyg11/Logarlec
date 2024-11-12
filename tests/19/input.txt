@@ -1,0 +1,10 @@
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+addPlayer Karoly Room#1
+addItem Beer Karoly
+addNPC Prof Room#2
+setActiveCharacter Karoly
+activate Beer#1
+setActiveCharacter Prof#1
+move Door#1

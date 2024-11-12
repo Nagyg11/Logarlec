@@ -1,0 +1,8 @@
+addRoom 5
+addPlayer Karoly Room#1
+addItem Beer Karoly
+addItem Beer Karoly
+addItem FakeFFP2 Karoly
+setActiveCharacter Karoly
+activate Beer#1
+activate Beer#2

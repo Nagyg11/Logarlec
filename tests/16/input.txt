@@ -1,0 +1,9 @@
+addRoom 5 toxic
+addRoom 5
+addDoor Room#1 Room#2
+addPlayer Karoly Room#2
+addItem Transistor Karoly
+addItem Transistor Karoly
+addItem Camembert Karoly
+setActiveCharacter Karoly
+move Door#1

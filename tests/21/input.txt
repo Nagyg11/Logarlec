@@ -1,0 +1,8 @@
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+addPlayer Karoly Room#1
+addNPC Prof Room#2
+addItem FakeTVSZ Karoly
+setActiveCharacter Prof#1
+move Door#1

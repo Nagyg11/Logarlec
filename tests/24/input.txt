@@ -1,0 +1,6 @@
+addRoom 5 toxic
+addRoom 5
+addDoor Room#1 Room#2
+addNPC CleaningLady Room#2
+setActiveCharacter CleaningLady#1
+move Door#1

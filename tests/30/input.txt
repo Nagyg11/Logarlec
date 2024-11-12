@@ -1,0 +1,6 @@
+addRoom 5
+addPlayer Adam Room#1
+addItem Beer Adam
+setActiveCharacter Adam
+activate Beer#1
+activate Beer#1

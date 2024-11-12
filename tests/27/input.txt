@@ -1,0 +1,3 @@
+addRoom 5 toxic
+addRoom 5 cursed
+merge Room#1 Room#2

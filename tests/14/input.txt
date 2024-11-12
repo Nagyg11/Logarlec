@@ -1,0 +1,14 @@
+addRoom 5
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+addDoor Room#2 Room#3
+addPlayer Karoly Room#2
+addItem WetSponge Karoly
+addNPC Prof Room#3
+getinfo
+setActiveCharacter Karoly
+activate WetSponge#1
+move Door#1
+setActiveCharacter Prof#1
+move Door#2

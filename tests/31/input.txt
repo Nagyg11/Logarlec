@@ -1,0 +1,8 @@
+addRoom 5
+addRoom 5 sticky
+addDoor Room#1 Room#2
+addItem Camembert Room#1
+addPlayer Otto Room#2
+setActiveCharacter Otto
+move Door#1
+pickup Item#1

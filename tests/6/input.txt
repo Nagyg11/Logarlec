@@ -1,0 +1,5 @@
+addRoom 5 sticky
+addPlayer Pistike Room#1
+addItem WetSponge Room#1
+setActiveCharacter Pistike
+pickup WetSponge#1

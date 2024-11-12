@@ -1,0 +1,6 @@
+addRoom 5
+addPlayer Karoly Room#1
+addItem Beer Karoly
+setActiveCharacter Karoly
+getinfo
+activate Beer#1

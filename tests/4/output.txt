@@ -1,0 +1,39 @@
+Game state: ongoing
+Characters of Game: 
+	ID: Andris
+	Stunned for: 0
+	Drunk for: 0
+	Killed: false
+	Items of entity: 
+		ID: Beer#1
+		Health: 1
+		Pair: No pair.
+		ID: Beer#2
+		Health: 1
+		Pair: No pair.
+		ID: Beer#3
+		Health: 1
+		Pair: No pair.
+		ID: Beer#4
+		Health: 1
+		Pair: No pair.
+		ID: Beer#5
+		Health: 1
+		Pair: No pair.
+	Room: Room#1
+Rooms of Game: 
+	ID: Room#1
+	Capacity: 5
+	Toxic: false
+	Wet: false
+	Cursed: false
+	Sticky: false
+	Entities of room: 
+		ID: Andris
+	Items of room: 
+		ID: Transistor#6
+		Health: -1
+		Pair: No pair.
+		Active: false
+		Room: No room.
+	Doors of room: No doors.

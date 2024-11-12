@@ -1,0 +1,5 @@
+addRoom 5
+addPlayer Karoly Room#1
+addItem AirConditioner Karoly
+setActiveCharacter Karoly
+drop AirConditioner#1

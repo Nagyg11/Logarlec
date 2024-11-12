@@ -1,0 +1,18 @@
+addRoom 5
+addRoom 5 toxic
+addRoom 5
+addDoor Room#1 Room#2
+addDoor Room#2 Room#3
+addNPC CleaningLady Room#1
+addPlayer Balint Room#3
+addPlayer Bela Room#3
+addPlayer Ervin Room#3
+setActiveCharacter CleaningLady#1
+move Door#1
+move Door#1
+setActiveCharacter Balint
+move Door#2
+setActiveCharacter Bela
+move Door#2
+setActiveCharacter Ervin
+move Door#2

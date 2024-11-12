@@ -1,0 +1,5 @@
+addRoom 5
+addPlayer Karoly Room#1
+addItem FakeLogarlec Room#1
+setActiveCharacter Karoly
+pickup FakeLogarlec#1

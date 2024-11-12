@@ -1,0 +1,5 @@
+addRoom 5
+addPlayer Andris Room#1
+addItem Beer Room#1
+setActiveCharacter Andris
+pickup Beer#1

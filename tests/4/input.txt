@@ -1,0 +1,10 @@
+addRoom 5
+addPlayer Andris Room#1
+addItem Beer Andris
+addItem Beer Andris
+addItem Beer Andris
+addItem Beer Andris
+addItem Beer Andris
+addItem Transistor Room#1
+setActiveCharacter Andris
+pickup Transistor#1

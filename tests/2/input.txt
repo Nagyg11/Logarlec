@@ -1,0 +1,8 @@
+addRoom 5
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+addDoor Room#2 Room#3
+addPlayer Joco Room#1
+setActiveCharacter Joco
+move Door#2

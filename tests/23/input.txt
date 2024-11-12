@@ -1,0 +1,10 @@
+addRoom 5
+addRoom 5 wet
+addRoom 5
+addDoor Room#1 Room#2
+addDoor Room#2 Room#3
+addNPC Prof Room#1
+addNPC Prof Room#1
+addNPC CleaningLady Room#3
+setActiveCharacter CleaningLady#3
+move Door#1

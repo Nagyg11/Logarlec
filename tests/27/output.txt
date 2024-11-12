@@ -1,0 +1,11 @@
+Game state: ongoing
+Characters of Game: No characters.
+Rooms of Game:
+	ID: Room#1
+	Capacity: 5
+	Toxic: true
+	Wet: false
+	Cursed: true
+	Sticky: false
+	Entities of room: No entities.
+	Items of room: No items.

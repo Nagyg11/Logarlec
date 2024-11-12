@@ -1,0 +1,1 @@
+java -cp out\production\logarlec proto.Main test 1

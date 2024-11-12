@@ -1,0 +1,4 @@
+addRoom 5
+addRoom 5
+addDoor Room#1 Room#2
+split Room#1

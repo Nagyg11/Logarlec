@@ -1,0 +1,1 @@
+javac -encoding UTF-8 -d out\production\logarlec\ src\proto\*.java
