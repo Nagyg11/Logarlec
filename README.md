@@ -1,15 +1,7 @@
 # Logarléc
 
-## Linkek
-[Tárgyhonlap](https://www.iit.bme.hu/targyak/BMEVIIIAB02)\
-[Hercules](https://devil.iit.bme.hu:9181/hercules/)
+##Game description:
+This is a fun video game. The game goes as following: The players control students and they can move to different kind of rooms through doors. Their goal is to obtain the Logarlec in less than 30 rounds. But there are Cleaning Ladies and Professors trying to sabotage the players from obtaining the item.
 
-## Beadások (doc mappa)
-[02. Követelmények](doc/02_kovetelmenyek.pdf)\
-[02. Követelmények javítása](doc/02_kovetelmenyek_javitott.pdf)\
-[03. Analízis modell I.](doc/03_analizis_i.pdf)\
-[04. Analízis modell II.](doc/04_analizis_ii.pdf)\
-[05. Szkeleton tervezése](doc/05_szkeleton_tervezese.pdf)\
-[06. Szkeleton elkészítése](doc/06_szkeleton_elkeszitese.pdf)\
-[07. Prototípus koncepciója](doc/07_prototipus_koncepcioja.pdf)\
-[08. Részletes tervek](doc/08_reszletes_tervek.pdf)
+##About project:
+This was a team project that I did with four of my partners for a semester.
